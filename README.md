@@ -44,7 +44,7 @@ A methodology that recognizes the symbiotic relationship between high-quality da
 
 ## About ConvertiD™
 
-ConvertiD® is the only Privacy-First, DatAI-Powered™ Ad platform.  
+ConvertiD is the only Privacy-First, DatAI-Powered™ Ad platform.  
 
 We help marketers eliminate ad waste, block fraud, and drive measurable performance using first-party data, AI, and privacy-first targeting.
 
